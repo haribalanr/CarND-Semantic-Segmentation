@@ -21,16 +21,16 @@ Over all performance was good, however there are roam for improvements as where 
 ### Image Sample output from FCN
 Segmentation class overlaid in green over the upon the image.
 ![sample1](./images/uu_000004.png)
-![sample2](./images/uu_000011.png])
-![sample3](./images/uu_000022.png])
-![sample4](./images/uu_000027.png])
-![sample5](./images/uu_000034.png])
-![sample6](./images/uu_000054.png])
-![sample8](./images/uu_000064.png])
-![sample7](./images/uu_000088.png])
-![sample9](./images/uu_000094.png])
-![sample10](./images/uu_000095.png])
-![sample11](./images/uu_000098.png])
+![sample2](./images/uu_000011.png)
+![sample3](./images/uu_000022.png)
+![sample4](./images/uu_000027.png)
+![sample5](./images/uu_000034.png)
+![sample6](./images/uu_000054.png)
+![sample8](./images/uu_000064.png)
+![sample7](./images/uu_000088.png)
+![sample9](./images/uu_000094.png)
+![sample10](./images/uu_000095.png)
+![sample11](./images/uu_000098.png)
 
 
 
