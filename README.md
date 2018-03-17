@@ -18,10 +18,9 @@ Loss per batch averages below 0.200 after couple epochs and then below 0.100 aft
 
 Over all performance was good, however there are roam for improvements as where few images have spotty raod identification. Playing more with Hyperparameters and faster training with Gpu can help as well (allowing more epochs).
 
-
-
 ### Image Sample output from FCN
 Segmentation class overlaid in green over the upon the image.
+![sample1](./images/uu_000004.png)
 
 
 
